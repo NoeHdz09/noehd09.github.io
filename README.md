@@ -6,4 +6,4 @@ Programación Web
 
 
 
-<a href="Ejercicio3-Horario-Alu.html">Practica3</a>
+<a href="https://github.com/NoeHdz09/noehd09.github.io/blob/master/Practica%203.html">Practica3</a>
